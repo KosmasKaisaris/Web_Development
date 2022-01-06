@@ -59,6 +59,6 @@ A challenge to learn jQuery
 Press **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/jQuery)**
 
 ### 15-16 Todolist
-Press **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/todolist-v1)**
-Press **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/todolist-v2)**
+todolistv1:Press **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/todolist-v1)**
+todolistv2:Press **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/todolist-v2)**
 
