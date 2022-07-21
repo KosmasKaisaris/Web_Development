@@ -12,7 +12,7 @@ Press **[here](https://github.com/KosmasKaisaris/Web_Development/blob/main/Calcu
 
 ### 3. Dice-Game
 I build the Dice-Game, each time you refresh the page a new player win!! 
-Press **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/Dice-Game)** And **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/DiceGame)**
+Press **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/Dice-Game)** And **[here](https://github.com/KosmasKaisaris/Web_Development/tree/main/DiceGame)** for other version
 
 
 ### 4. Drum-Kit
